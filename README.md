@@ -1,24 +1,14 @@
-# README
+# Tutorial: Learn Ruby on Rails - Full Course
+* ULR: https://www.youtube.com/watch?v=fmyvWz5TUWg&t=1615s
+* Author: freeCodeCamp.org
+## Notes:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+For Ubuntu 22.04:
+1.  Download this script: 
+https://github.com/linuxworkshop67/scripts/blob/main/installror.sh. 
+You can use 
+curl https://raw.githubusercontent.com/linuxworkshop67/scripts/main/installror.sh -o rubyonrailsinstaller.sh
+* to create a new project: `rails new <empty directory path>`
+* To run server: `rails s <path to project>`
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
