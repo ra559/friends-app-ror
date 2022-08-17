@@ -31,4 +31,4 @@
 *  build a scafold: `rails g scaffold friends first_name:string last_name:string email:string phone:string twitter:string`
 * to push the migration use: `rails db:migrate`
 
-* STOP ATL: Style Devise Views ⌨️ (2:02:15)
+* STOP ATL: (2:26:39) Associations
