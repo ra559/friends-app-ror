@@ -32,3 +32,4 @@
 * to push the migration use: `rails db:migrate`
 
 * STOP ATL: (2:26:39) Associations
+* 
