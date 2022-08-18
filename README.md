@@ -31,5 +31,4 @@
 *  build a scafold: `rails g scaffold friends first_name:string last_name:string email:string phone:string twitter:string`
 * to push the migration use: `rails db:migrate`
 
-* STOP ATL: (2:26:39) Associations
-* 
+App Available here: https://friends-app-bobby.herokuapp.com/friends 
